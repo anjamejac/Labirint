@@ -1,5 +1,5 @@
 # Labirint
-Labirint je interaktivno učno okolje oziroma aplikacija, ki sem jo ustvarila v sklopu svojega magistrskega dela. Aplikacijo (.exe datoteko) prenesete na svoj računalnik in jo odprete.
+Labirint je interaktivno učno okolje oziroma aplikacija, ki sem jo ustvarila v sklopu svojega magistrskega dela. Aplikacijo (```.exe``` datoteko) prenesete na svoj računalnik in jo odprete.
 
 Več o aplikaciji si lahko preberete v magistrskem delu Ustvarjanje in vrednotenje labirintov: https://repozitorij.uni-lj.si/IzpisGradiva.php?id=159506
 
